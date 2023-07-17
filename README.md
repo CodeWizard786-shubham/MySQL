@@ -1,2 +1,2 @@
 # MySQL
-This repositiory contains sql programs done on MySQL workbench
+This repositiory contains sql files implementing various MYSQL operations.
